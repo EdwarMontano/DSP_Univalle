@@ -1,0 +1,112 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="1214284490" file="/home/ryan/Downloads/Project_1/Audio Processor.prj" location="/home/ryan/Downloads/Project_1" name="Audio Processor" target="target.mlapps" target-name="Package App">
+    <param.appname>Audio Processor</param.appname>
+    <param.authnamewatermark>Tu tia</param.authnamewatermark>
+    <param.email>tutia@correounivalle.edu.co</param.email>
+    <param.company>Tropeles univalle stereo</param.company>
+    <param.icon />
+    <param.icons />
+    <param.summary />
+    <param.description />
+    <param.screenshot>/tmp/tp5342975f_6c41_4fc1_92b6_32666f710603.png</param.screenshot>
+    <param.version>1.3</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>/home/ryan/Downloads/Project_1</param.output>
+    <param.guid>1c0cd01a-a437-43c5-9fd1-fbf3b66ff1d3</param.guid>
+    <unset>
+      <param.icon />
+      <param.icons />
+      <param.summary />
+      <param.description />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+      <param.output />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}/Audio_Processor.mlapp</file>
+    </fileset.main>
+    <fileset.depfun>
+      <file>${PROJECT_ROOT}/icons8-detener-16.png</file>
+      <file>${PROJECT_ROOT}/icons8-detener-40.png</file>
+      <file>${PROJECT_ROOT}/icons8-grabar-80.png</file>
+      <file>${PROJECT_ROOT}/icons8-musical-80.png</file>
+      <file>${PROJECT_ROOT}/icons8-play-40.png</file>
+      <file>${PROJECT_ROOT}/icons8-play-80.png</file>
+      <file>${PROJECT_ROOT}/icons8-reproducir-en-círculo-16.png</file>
+      <file>${PROJECT_ROOT}/icons8-stop-80.png</file>
+    </fileset.depfun>
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="/home/ryan/Downloads" name="Project_1" optional="false">/home/ryan/Downloads/Project_1</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>/usr/local/MATLAB/R2018b</root>
+      <toolboxes>
+        <toolbox name="matlabcoder" />
+        <toolbox name="embeddedcoder" />
+        <toolbox name="gpucoder" />
+        <toolbox name="fixedpoint" />
+        <toolbox name="matlabhdlcoder" />
+        <toolbox name="polyspacebugfinder" />
+        <toolbox name="neuralnetwork" />
+      </toolboxes>
+      <toolbox>
+        <matlabcoder>
+          <enabled>true</enabled>
+        </matlabcoder>
+      </toolbox>
+      <toolbox>
+        <embeddedcoder>
+          <enabled>true</enabled>
+        </embeddedcoder>
+      </toolbox>
+      <toolbox>
+        <gpucoder>
+          <enabled>true</enabled>
+        </gpucoder>
+      </toolbox>
+      <toolbox>
+        <fixedpoint>
+          <enabled>true</enabled>
+        </fixedpoint>
+      </toolbox>
+      <toolbox>
+        <matlabhdlcoder>
+          <enabled>true</enabled>
+        </matlabhdlcoder>
+      </toolbox>
+      <toolbox>
+        <polyspacebugfinder>
+          <enabled>true</enabled>
+        </polyspacebugfinder>
+      </toolbox>
+      <toolbox>
+        <neuralnetwork>
+          <enabled>true</enabled>
+        </neuralnetwork>
+      </toolbox>
+    </matlab>
+    <platform>
+      <unix>true</unix>
+      <mac>false</mac>
+      <windows>false</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>true</linux>
+      <solaris>false</solaris>
+      <osver>4.18.0-25-generic</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>glnxa64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
