@@ -28,12 +28,31 @@
 
 *   **Tipo de señales:** 
 
--    Señal que no puede describirse con un grado de precición razonable mediante fórmulas  matematicas explicitas 
--    los valores de la cantidad física (variable dependiente) pueden ser reales, complejos o vectores.
+-    **Señal aleatoria:**  Señal que no puede describirse con un grado de precición razonable mediante fórmulas  matematicas explicitas  o cuya descripción es demasiado complicada para ser de utilidad práctica.
 
-*    Las señales pueden ser **modificadas** o **transformadas** intencionalmente o no. </br>
+     -    La  falta de tal relación supone  que dichas señales  evolucionan con el tiempo de forma impredecible
+
+<img width="400px" src="https://i.ibb.co/3Np54SX/mux-imagen.gif" alt="image_03">
 
 
+-    **Señal Determinista:**  Señal que puede ser definida explícitamente por una ecuación matemática, un conjunto de datos, o una regla bien definida.
+
+
+<img width="400px" src="https://i.ibb.co/3Np54SX/mux-imagen.gif" alt="image_03">
+
+*   **Tipo de señales:** 
+
+-    **Señal aleatoria:**  Señal que no puede describirse con un grado de precición razonable mediante fórmulas  matematicas explicitas  o cuya descripción es demasiado complicada para ser de utilidad práctica.
+
+     -    La  falta de tal relación supone  que dichas señales  evolucionan con el tiempo de forma impredecible
+
+<img width="400px" src="https://i.ibb.co/3Np54SX/mux-imagen.gif" alt="image_03">
+
+
+-    **Señal Determinista:**  Señal que puede ser definida explícitamente por una ecuación matemática, un conjunto de datos, o una regla bien definida.
+
+
+<img width="400px" src="https://i.ibb.co/3Np54SX/mux-imagen.gif" alt="image_03">
 
 
 
